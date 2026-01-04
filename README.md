@@ -1,8 +1,6 @@
 # Phishing-Emails-in-Action-THM
 Week 10 - Lab Task Social Engineering - Blue Team
 
-# Phishing Emails in Action – TryHackMe Write-up
-
 ## Introduction
 Phishing Attack is a cybercrime where attackers impersonate trusted entities (like banks, companies, or colleagues) through fake emails, texts, or websites to trick people into revealing sensitive data (passwords, credit cards) or installing malware, using social engineering tactics like urgency or fear to bypass security. Not only that phishing emails are one of the most common social engineering attack vectors used by attackers to deceive users into revealing sensitive information. This write-up, documents the analysis of phishing emails conducted in the *Phishing Emails in Action* room on TryHackMe. As you should have already guessed, our focus is on email as the attack vector. The objective is to identify phishing indicators and understand common attacker techniques from a defensive perspective.
 
