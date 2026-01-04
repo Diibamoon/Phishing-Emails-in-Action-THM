@@ -1,5 +1,5 @@
 # Phishing-Emails-in-Action-THM
-Week 10 - Lab Task Social Engineering - Blue Attack
+Week 10 - Lab Task Social Engineering - Blue Team
 
 # Phishing Emails in Action – TryHackMe Write-up
 
