@@ -21,25 +21,6 @@ Phishing Attack is a cybercrime where attackers impersonate trusted entities (li
 
 ---
 
-## Phishing Email Case Study
-
-### Email Overview
-The analyzed email claims to be sent by a security service provider but shows multiple characteristics of a phishing attack.
-
-**Sender Name:**  
-ADT Security Services
-
-**Sender Email Address:**  
-newsletters@ant.anki-tech.com
-
-**Recipient:**  
-alexa@yahoo.com
-
-**Subject:**  
-Help protect your budget by protecting your home
-
----
-
 ## Phishing Indicators Identified
 
 ### 1. Sender Impersonation
