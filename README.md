@@ -48,6 +48,28 @@ The email includes a phone number, indicating a potential call-based phishing or
 
 ---
 
+Justification 
+
+1. Attacker will use this "noreply" message phrase to appear legitimate and prvent user's interaction and making more social engineering more effective.
+<img width="1005" height="155" alt="image" src="https://github.com/user-attachments/assets/369cdc4f-48f1-4bbf-a8da-93cdc48d761e" />
+
+
+2. As a reciever, we should notice and be careful by checking that if its related to the contect or no. Images show that attacker use malicious major companies such as their producs and logo ; OneDrive and Adobe is a completely a different companies. Also we should be more carefull by the URL.
+<img width="910" height="584" alt="image" src="https://github.com/user-attachments/assets/b498bf0d-8d25-44b2-9b2f-399eb2e784cc" />
+<img width="911" height="588" alt="image" src="https://github.com/user-attachments/assets/d3883415-a1b3-46c4-a49f-19f13a7242ce" />
+
+3. For more details we must read the message or email at the first place. Here show that the email does not match the email address at all. Also there are lot of misplealing in the email.
+<img width="1003" height="291" alt="image" src="https://github.com/user-attachments/assets/70954a23-df67-4fb5-98e1-037c78949e43" />
+<img width="971" height="290" alt="image" src="https://github.com/user-attachments/assets/ae82ed36-573b-4e6d-9ef4-11c4cf457b61" />
+
+
+You will notice that the spealing of the email.
+<img width="1413" height="34" alt="image" src="https://github.com/user-attachments/assets/bf30cdd7-f5f6-4e9d-95eb-54a31a8424c3" />
+
+4. This email was from Apple Store but the email was gibberish@sumpremed.com. This is completely weird and we should notice this.
+<img width="1006" height="153" alt="image" src="https://github.com/user-attachments/assets/2938988c-4f29-4576-b4b8-58fd6e9d42eb" />
+
+---
 ## Attack Classification
 - Phishing
 - Impersonation
